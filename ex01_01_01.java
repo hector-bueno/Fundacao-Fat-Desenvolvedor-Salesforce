@@ -30,5 +30,7 @@ public class ex01_01_01 {
 
         float div = (float)n1 / n2;
         System.out.printf("\nA divisão dos Valores é: " + div);
+
+        ler.close();
     }
 }

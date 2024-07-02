@@ -22,5 +22,7 @@ public class ex01_01_02 {
         salario = ler.nextDouble();
 
         System.out.printf("Olá, %s sua idade é %d e seu salário é %.2f", idade, nome, salario);
+
+        ler.close();
     }
 }

@@ -23,6 +23,8 @@ public class padrao {
 
         System.out.printf("\nResultado:\n");
         System.out.printf("%s tem %d anos.\n", nome, idade);
+
+        ler.close();
     }
 
 }

@@ -24,5 +24,6 @@ public class ex01_02_01 {
         media = (n1 + n2 + n3) / 3;
 
         System.out.printf("A média é: %.2f", media);
+        ler.close();
     }
 }
